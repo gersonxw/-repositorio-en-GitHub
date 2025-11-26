@@ -1,0 +1,17 @@
+seguimiento de mi proyeto en git
+
+aki voy a poner los commits que ise en mi proyeto y mas o menos para que sirvio cada uno.
+
+commit 1 - primer commit  
+en este commit apenas empese el proyeto, casi no tenia nada echo todavia.
+
+commit 2 - agregar archivo  
+aki ya agrege un archivo al proyeto por primera ves y empese a moverle un poko.
+
+commit 3 - cambios en ramas  
+aki use otra rama para aser cambios sin afectar el prinsipal, fue mas como una prueva.
+
+commit 4 - conflicto resuelto  
+aki se confundieron los archivos por que cambie lo mismo en dos ramas y lo tube que arreglar yo mismo.
+
+con todo esto aprendi que git sirve para ir guardando lo que voy asiendo y para ber como ba abanzando el proyeto.
